@@ -1,0 +1,602 @@
+{
+  "types": [
+    {
+      "section": "\n{{fr-verb}}\n\n# {{lb|fr|transitive|pathology}} to [[harden]]\n# {{lb|fr|reflexive|pathology}} to [[harden]], to [[sclerose]], to become [[sclerosed]]\n# {{lb|fr|transitive|figuratively}} to [[paralyse]]\n# {{lb|fr|reflexive|figuratively}} to [[ossify]], to become [[fossilized]], to [[grind to a halt]]\n\n",
+      "alt": [],
+      "syn": [],
+      "type": "verb",
+      "forms": [
+        {
+          "mod": "inf",
+          "aux": [
+            "être"
+          ],
+          "pronom": true,
+          "impers": false
+        }
+      ],
+      "trans": [],
+      "group": 1,
+      "conj": [
+        {
+          "mod": "indc",
+          "tenses": [
+            {
+              "tense": "pres",
+              "forms": [
+                [
+                  "je me sclérose"
+                ],
+                [
+                  "tu te scléroses"
+                ],
+                [
+                  "il se sclérose"
+                ],
+                [
+                  "nous nous sclérosons"
+                ],
+                [
+                  "vous vous sclérosez"
+                ],
+                [
+                  "ils se sclérosent"
+                ]
+              ]
+            },
+            {
+              "tense": "pass-c",
+              "forms": [
+                [
+                  "je me suis sclérosé"
+                ],
+                [
+                  "tu t’es sclérosé"
+                ],
+                [
+                  "il s’est sclérosé"
+                ],
+                [
+                  "nous nous sommes sclérosés"
+                ],
+                [
+                  "vous vous êtes sclérosés"
+                ],
+                [
+                  "ils se sont sclérosés"
+                ]
+              ]
+            },
+            {
+              "tense": "impf",
+              "forms": [
+                [
+                  "je me sclérosais"
+                ],
+                [
+                  "tu te sclérosais"
+                ],
+                [
+                  "il se sclérosait"
+                ],
+                [
+                  "nous nous sclérosions"
+                ],
+                [
+                  "vous vous sclérosiez"
+                ],
+                [
+                  "ils se sclérosaient"
+                ]
+              ]
+            },
+            {
+              "tense": "pqpf",
+              "forms": [
+                [
+                  "je m’étais sclérosé"
+                ],
+                [
+                  "tu t’étais sclérosé"
+                ],
+                [
+                  "il s’était sclérosé"
+                ],
+                [
+                  "nous nous étions sclérosés"
+                ],
+                [
+                  "vous vous étiez sclérosés"
+                ],
+                [
+                  "ils s’étaient sclérosés"
+                ]
+              ]
+            },
+            {
+              "tense": "pass-s",
+              "forms": [
+                [
+                  "je me sclérosai"
+                ],
+                [
+                  "tu te sclérosas"
+                ],
+                [
+                  "il se sclérosa"
+                ],
+                [
+                  "nous nous sclérosâmes"
+                ],
+                [
+                  "vous vous sclérosâtes"
+                ],
+                [
+                  "ils se sclérosèrent"
+                ]
+              ]
+            },
+            {
+              "tense": "pass-a",
+              "forms": [
+                [
+                  "je me fus sclérosé"
+                ],
+                [
+                  "tu te fus sclérosé"
+                ],
+                [
+                  "il se fut sclérosé"
+                ],
+                [
+                  "nous nous fûmes sclérosés"
+                ],
+                [
+                  "vous vous fûtes sclérosés"
+                ],
+                [
+                  "ils se furent sclérosés"
+                ]
+              ]
+            },
+            {
+              "tense": "futr",
+              "forms": [
+                [
+                  "je me scléroserai"
+                ],
+                [
+                  "tu te scléroseras"
+                ],
+                [
+                  "il se sclérosera"
+                ],
+                [
+                  "nous nous scléroserons"
+                ],
+                [
+                  "vous vous scléroserez"
+                ],
+                [
+                  "ils se scléroseront"
+                ]
+              ]
+            },
+            {
+              "tense": "futr-a",
+              "forms": [
+                [
+                  "je me serai sclérosé"
+                ],
+                [
+                  "tu te seras sclérosé"
+                ],
+                [
+                  "il se sera sclérosé"
+                ],
+                [
+                  "nous nous serons sclérosés"
+                ],
+                [
+                  "vous vous serez sclérosés"
+                ],
+                [
+                  "ils se seront sclérosés"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "subj",
+          "tenses": [
+            {
+              "tense": "subj-pr",
+              "forms": [
+                [
+                  "que je me sclérose"
+                ],
+                [
+                  "que tu te scléroses"
+                ],
+                [
+                  "qu’il se sclérose"
+                ],
+                [
+                  "que nous nous sclérosions"
+                ],
+                [
+                  "que vous vous sclérosiez"
+                ],
+                [
+                  "qu’ils se sclérosent"
+                ]
+              ]
+            },
+            {
+              "tense": "subj-ps",
+              "forms": [
+                [
+                  "que je me sois sclérosé"
+                ],
+                [
+                  "que tu te sois sclérosé"
+                ],
+                [
+                  "qu’il se soit sclérosé"
+                ],
+                [
+                  "que nous nous soyons sclérosés"
+                ],
+                [
+                  "que vous vous soyez sclérosés"
+                ],
+                [
+                  "qu’ils se soient sclérosés"
+                ]
+              ]
+            },
+            {
+              "tense": "subj-im",
+              "forms": [
+                [
+                  "que je me sclérosasse"
+                ],
+                [
+                  "que tu te sclérosasses"
+                ],
+                [
+                  "qu’il se sclérosât"
+                ],
+                [
+                  "que nous nous sclérosassions"
+                ],
+                [
+                  "que vous vous sclérosassiez"
+                ],
+                [
+                  "qu’ils se sclérosassent"
+                ]
+              ]
+            },
+            {
+              "tense": "subj-pq",
+              "forms": [
+                [
+                  "que je me fusse sclérosé"
+                ],
+                [
+                  "que tu te fusses sclérosé"
+                ],
+                [
+                  "qu’il se fût sclérosé"
+                ],
+                [
+                  "que nous nous fussions sclérosés"
+                ],
+                [
+                  "que vous vous fussiez sclérosés"
+                ],
+                [
+                  "qu’ils se fussent sclérosés"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "cond",
+          "tenses": [
+            {
+              "tense": "cond-pr",
+              "forms": [
+                [
+                  "je me scléroserais"
+                ],
+                [
+                  "tu te scléroserais"
+                ],
+                [
+                  "il se scléroserait"
+                ],
+                [
+                  "nous nous scléroserions"
+                ],
+                [
+                  "vous vous scléroseriez"
+                ],
+                [
+                  "ils se scléroseraient"
+                ]
+              ]
+            },
+            {
+              "tense": "cond-pp",
+              "forms": [
+                [
+                  "je me serais sclérosé"
+                ],
+                [
+                  "tu te serais sclérosé"
+                ],
+                [
+                  "il se serait sclérosé"
+                ],
+                [
+                  "nous nous serions sclérosés"
+                ],
+                [
+                  "vous vous seriez sclérosés"
+                ],
+                [
+                  "ils se seraient sclérosés"
+                ]
+              ]
+            },
+            {
+              "tense": "cond-pd",
+              "forms": [
+                [
+                  "je me fusse sclérosé"
+                ],
+                [
+                  "tu te fusses sclérosé"
+                ],
+                [
+                  "il se fût sclérosé"
+                ],
+                [
+                  "nous nous fussions sclérosés"
+                ],
+                [
+                  "vous vous fussiez sclérosés"
+                ],
+                [
+                  "ils se fussent sclérosés"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "impr",
+          "tenses": [
+            {
+              "tense": "impr-pr",
+              "forms": [
+                [
+                  "sclérose-toi"
+                ],
+                [
+                  "sclérosons-nous"
+                ],
+                [
+                  "sclérosez-vous"
+                ]
+              ]
+            },
+            {
+              "tense": "impr-ps",
+              "forms": []
+            }
+          ]
+        },
+        {
+          "mod": "part",
+          "tenses": [
+            {
+              "tense": "part-ps",
+              "forms": [
+                [
+                  "sclérosé"
+                ],
+                [
+                  "sclérosée"
+                ],
+                [
+                  "s’étant sclérosé"
+                ]
+              ]
+            },
+            {
+              "tense": "part-pr",
+              "forms": [
+                [
+                  "se sclérosant"
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
+  "title": "scléroser",
+  "id": "7975014",
+  "audios": [
+    {
+      "name": "LL-Q150 (fra)-Lyokoï-scléroser.wav",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LL-Q150_%28fra%29-Lyoko%C3%AF-scl%C3%A9roser.wav"
+    }
+  ],
+  "ipas": [
+    "/skle.ʁo.ze/"
+  ],
+  "pronunSection": "\n* {{fr-IPA}}\n* {{audio|fr|LL-Q150 (fra)-Lyokoï-scléroser.wav}}\n\n"
+}                "ils eussent scléros",
+                  "é"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "impr",
+          "tenses": [
+            {
+              "tense": "impr-pr",
+              "forms": [
+                [
+                  "scléros",
+                  "e"
+                ],
+                [
+                  "scléros",
+                  "ons"
+                ],
+                [
+                  "scléros",
+                  "ez"
+                ]
+              ]
+            },
+            {
+              "tense": "impr-ps",
+              "forms": [
+                [
+                  "aie scléros",
+                  "é"
+                ],
+                [
+                  "ayons scléros",
+                  "é"
+                ],
+                [
+                  "ayez scléros",
+                  "é"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "part",
+          "tenses": [
+            {
+              "tense": "part-pr",
+              "forms": [
+                [
+                  "scléros",
+                  "ant"
+                ]
+              ]
+            },
+            {
+              "tense": "part-ps",
+              "forms": [
+                [
+                  "scléros",
+                  "é"
+                ],
+                [
+                  "scléros",
+                  "ée"
+                ],
+                [
+                  "scléros",
+                  "és"
+                ],
+                [
+                  "scléros",
+                  "ées"
+                ],
+                [
+                  "ayant scléros",
+                  "é"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "inf",
+          "tenses": [
+            {
+              "tense": "inf-pr",
+              "forms": [
+                [
+                  "scléroser"
+                ]
+              ]
+            },
+            {
+              "tense": "inf-ps",
+              "forms": [
+                [
+                  "avoir scléros",
+                  "é"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "mod": "gern",
+          "tenses": [
+            {
+              "tense": "gern-pr",
+              "forms": [
+                [
+                  "en scléros",
+                  "ant"
+                ]
+              ]
+            },
+            {
+              "tense": "gern-ps",
+              "forms": [
+                [
+                  "en ayant scléros",
+                  "é"
+                ]
+              ]
+            }
+          ]
+        }
+      ],
+      "preps": [
+        {
+          "rel": "v-pron",
+          "prep": "dans",
+          "ex": "se scléroser dans ses habitudes"
+        }
+      ],
+      "tags": [
+        "transit"
+      ]
+    }
+  ],
+  "title": "scléroser",
+  "id": "7975014",
+  "audios": [
+    {
+      "name": "LL-Q150 (fra)-Lyokoï-scléroser.wav",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LL-Q150_%28fra%29-Lyoko%C3%AF-scl%C3%A9roser.wav"
+    }
+  ],
+  "ipas": [
+    "/skle.ʁo.ze/"
+  ],
+  "pronunSection": "\n* {{fr-IPA}}\n* {{audio|fr|LL-Q150 (fra)-Lyokoï-scléroser.wav}}\n\n"
+}
